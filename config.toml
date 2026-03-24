@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/hoanganh-repogit/hoangvananh_AWSFCJ'
+baseURL = 'https://github.com/hoanganh-repogit/hoangvananh-AWSFCJ'
 relativeURLs = false
 canonifyURLs = true
 theme = 'hugo-theme-learn'
